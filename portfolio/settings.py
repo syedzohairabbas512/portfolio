@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-j(@$+%-wyzn3c=e2-lp^by#0z4#9u#x=@og44sb-$2lbbs3on6'
+ #Your security key
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -34,7 +34,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'syed.apps.SyedConfig',
+    'your_app_name.apps.your_app_nameConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -140,5 +140,5 @@ EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
 EMAIL_HOST = "smtp.gmail.com"
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
-EMAIL_HOST_USER = "syedzohairabbas512@gmail.com"  # Replace with your Gmail email address
-EMAIL_HOST_PASSWORD = "rlljwdpbosqobffn"  # Replace with your Gmail password or app password
+EMAIL_HOST_USER = "youremailaddress"  # Replace with your Gmail email address
+EMAIL_HOST_PASSWORD = "app password or gmail password"  # Replace with your Gmail password or app password
