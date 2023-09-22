@@ -5,7 +5,6 @@ Welcome to Syed's Portfolio! This is a brief showcase of my skills and work.
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Usage](#usage)
 - [Screenshots](#screenshots)
 
 ## Overview
