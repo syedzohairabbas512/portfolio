@@ -8,9 +8,9 @@ I appreciate your interest and the time you've taken to get in touch. I'll be re
 In the meantime, if you have any urgent matters or additional information to provide, please feel free to reply to this email.
 
 Best regards,
-Syed Zohair Abbas
-syedzohairabbas512@gmail.com
+Your Name
+Your Email Address
 """
 
 
-subject = "Syed's Portfolio | Thanks for visiting my portfolio"
+subject = "Your's Portfolio | Thanks for visiting my portfolio"
